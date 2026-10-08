@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""authguard v1.0.0 — 登录安全哨兵：faillog/btmp/lastlog/wtmp 四源聚合，暴破定位+首次告警+一键封禁建议。零依赖单文件 CLI。"""
+"""authguard v1.0.0 — 登录安全哨兵：sshd 日志暴破定位+首次告警+BREACH得手判定+封禁建议。零依赖单文件 CLI。"""
 import argparse
 import datetime
 import json
