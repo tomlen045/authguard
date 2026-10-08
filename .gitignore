@@ -1,0 +1,11 @@
+# 内部交付物不入仓
+公众号排版版.html
+report.md
+screenshots草稿/
+cards/
+*cover*.py
+shots/
+qa_tile.jpg
+__pycache__/
+*.pyc
+.selftest_state*
